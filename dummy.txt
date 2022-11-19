@@ -177,3 +177,4 @@ Dummy content for commit 34 1
 Dummy content for commit 30 1
 Dummy content for commit 35 1
 Dummy content for commit 31 1
+Dummy content for commit 36 2
