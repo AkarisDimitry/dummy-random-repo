@@ -100,3 +100,4 @@ Dummy content for commit 86 1
 Dummy content for commit 1 1
 Dummy content for commit 87 1
 Dummy content for commit 2 1
+Dummy content for commit 88 2
