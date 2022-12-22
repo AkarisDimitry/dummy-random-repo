@@ -21,3 +21,4 @@ Dummy content for commit 8 2
 Dummy content for commit 9 2
 Dummy content for commit 10 2
 Dummy content for commit 11 2
+Dummy content for commit 12 1
