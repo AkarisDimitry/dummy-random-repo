@@ -5,3 +5,4 @@ Dummy content for commit 2 2
 Dummy content for commit 3 1
 Dummy content for commit 4 2
 Dummy content for commit 5 1
+Dummy content for commit 6 1
