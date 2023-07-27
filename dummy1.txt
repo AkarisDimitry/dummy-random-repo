@@ -43,3 +43,4 @@ Dummy content for commit 40 1
 Dummy content for commit 41 1
 Dummy content for commit 42 1
 Dummy content for commit 43 1
+Dummy content for commit 44 2
