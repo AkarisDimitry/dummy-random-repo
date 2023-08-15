@@ -27,7 +27,7 @@ def random_date(start, end):
 
 if __name__ == '__main__':
     # Authenticate with the GitHub API
-    token = "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"
+    token = ""
     g = Github(token)
 
     # Check if the repository already exists
